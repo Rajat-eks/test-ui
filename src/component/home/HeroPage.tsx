@@ -74,9 +74,9 @@ const HeroSection = () => {
               Consulting made the entire lending journey smooth and transparent.
             </p>
             <p className="font-bold">
-              Anjali Desai,{" "}
+              Name{" "}
               <span className="text-[#0A0A23] underline decoration-blue-200">
-                Freelancer
+                Designation
               </span>
             </p>
           </div>

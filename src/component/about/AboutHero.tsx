@@ -10,7 +10,7 @@ const AboutHeroSection = () => {
       <div className="absolute inset-0 z-0">
         <Image
           src={about}
-          alt="About Ram Fincorp"
+          alt="About Loan Plus"
           fill
           className="object-cover"
         />
@@ -23,13 +23,13 @@ const AboutHeroSection = () => {
         {/* Heading */}
         <div className="text-center md:text-left">
           <h1 className="text-4xl sm:text-5xl font-bold leading-tight">
-            About <br /> Ram Fincorp
+            About <br /> Loan Plus
           </h1>
         </div>
 
         {/* Breadcrumb Button */}
         <div className="bg-white/10 backdrop-blur-md border border-white/30 rounded-xl px-5 py-3 text-sm sm:text-base font-medium shadow-lg">
-          Ram Fincorp <span className="mx-2">{">"}</span> About Us
+          Loan Plus <span className="mx-2">{">"}</span> About Us
         </div>
       </div>
     </section>

@@ -10,38 +10,38 @@ import { motion } from "framer-motion";
 
 const testimonials = [
   {
-    name: "Harmandeep Hayer",
-    title: "A good app for people with bad credit",
+    name: "Name",
+    title: "Designation",
     content:
       "Truly a blessing for people with bad credit score but a good intention to pay the funds in time. Helped resolve my much needed financial crisis...",
   },
   {
-    name: "Jitender Kumar",
-    title: "Always a good hand in emergencies",
+    name: "Name",
+    title: "Designation",
     content:
       "It's good 🙏 for emergency if you apply instant but not as good as expected. I am thankful 🙏...",
   },
   {
-    name: "Rohit Sharma",
-    title: "Great Experience!",
+    name: "Name",
+    title: "Designation",
     content:
       "Smooth process and great app interface. Got the loan disbursed within minutes.",
   },
   {
-    name: "Anjali Mehra",
-    title: "Super Quick Disbursal",
+      name: "Name",
+    title: "Designation",
     content:
       "Never expected such fast disbursal. Really impressed by the support as well.",
   },
   {
-    name: "Deepak Rana",
-    title: "Helpful in need",
+     name: "Name",
+    title: "Designation",
     content:
-      "Got the loan during a medical emergency without any hassle. Thank you Ram Fincorp!",
+      "Got the loan during a medical emergency without any hassle. Thank you Loan Plus!",
   },
   {
-    name: "Priya Verma",
-    title: "Highly Recommend",
+    name: "Name",
+    title: "Designation",
     content:
       "If you're looking for fast loan approval, this is the app! Clean and simple process.",
   },

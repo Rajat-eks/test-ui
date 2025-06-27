@@ -35,7 +35,7 @@ const DownloadAppSection = () => {
             app now!
           </h2>
           <p className="text-gray-700 text-base sm:text-lg">
-            Get the free Ram Fincorp app on your phone
+            Get the free Loan Plus app on your phone
           </p>
         </motion.div>
 

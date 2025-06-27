@@ -76,7 +76,7 @@ const DreamSection = () => {
         <h2 className="text-3xl md:text-5xl font-bold leading-tight">
           Dream of anything, <br />
           Dream of everything with{" "}
-          <span className="text-blue-500">Ram Fincorp</span>
+          <span className="text-blue-500">Loan Plus</span>
         </h2>
       </div>
 
